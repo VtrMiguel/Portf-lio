@@ -8,11 +8,11 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-color: #1d3131;
+    background-color: #332C39;
 }
 
 nav{
-    background-color: #5F9EA0;
+    background-color: #609EA2;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -52,24 +52,24 @@ nav ul li a:hover{
 
 .main-text h1{
     font-size: 110px;
-    color: #b8ffe4;
+    color: #C92C6D;
     font-weight: 800;
 }
 
 .main-text a{
-    color: #F0FFF0;
+    color: #F0EEED;
     font-weight: 500;
     font-size: 22px;
     letter-spacing: 1px;
 }
 
 .main-text h3{
-    color: white;
+    color: #F0EEED;
     font-size:  35px;
 }
 
 .main-text h2{
-    color: white;
+    color: #F0EEED;
 }
 
 .projet{

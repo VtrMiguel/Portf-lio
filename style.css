@@ -144,7 +144,7 @@ nav ul li a:hover{
 }
 
 .card .button:hover{
-    background-color: #434242;
+    background-color: white;
     border: 2px solid black;
     cursor: pointer;
     color: #22A39F;

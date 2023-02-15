@@ -73,14 +73,14 @@ nav ul li a:hover{
 }
 
 .projet{
-    background-color: #434242;
+    background-color: #22A39F;
     width: 100%;
     padding: 10px 0px;
     flex-direction:column
 }
 
 .title h2{
-    color: #F3EFE0;
+    color: #222222;
     font-size: 75px;
     width: 1130px;
     margin: 30px auto;
@@ -99,7 +99,7 @@ nav ul li a:hover{
     height: 365px;
     width: 335px;
     padding: 20px 35px;
-    background-color: #22A39F;
+    background-color: #F3EFE0;
     border-radius: 20px;
     margin: 15px;
     position: relative;
@@ -117,11 +117,10 @@ nav ul li a:hover{
     display: block;
     text-align: center;
     margin: 25px 0px;
-    color: white;
 }
 
 .card h4{
-    color: white;
+    color: #22A39F;
     font-size: 24px;
     margin-bottom: 15px;
 }
